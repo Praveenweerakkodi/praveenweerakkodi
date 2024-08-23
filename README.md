@@ -5,9 +5,11 @@
 
 ### My Details
 
-- 🌱 I’m currently learning **JAVA,C++,Python,HTML,Computer Network,MySql**
+- 🌱 I’m currently learning **JAVA,C++,Python,HTML,PHP,C#,Computer Network,MySql,Front-end/Back-end Web application Development,Mobile Application Development**
 
 - 📝 I regularly write articles on [thediscoveria.blogspot.com](thediscoveria.blogspot.com)
+
+- 🌱 My Linkedin Profile - "praveenweerakkodi"
 
 - 📫 How to reach me **praveenweerakkodi@gmail.com**
 
