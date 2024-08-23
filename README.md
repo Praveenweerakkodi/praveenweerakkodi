@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [thediscoveria.blogspot.com](thediscoveria.blogspot.com)
 
-- 🌱 My Linkedin Profile - **praveenweerakkodi**
+- 🌱 My Linkedin Profile - www.linkedin.com/in/praveen-weerakkodi-032656301
 
 - 📫 How to reach me **praveenweerakkodi@gmail.com**
 
